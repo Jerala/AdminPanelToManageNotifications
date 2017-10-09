@@ -1,0 +1,15 @@
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\bin\Debug\AdminPanelToManageNotifications.exe.config
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\bin\Debug\AdminPanelToManageNotifications.exe
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\bin\Debug\AdminPanelToManageNotifications.pdb
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\bin\Debug\AdminPanelToManageNotifications.xml
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.vbprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.Form1.resources
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.Resources.resources
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.vbproj.GenerateResource.Cache
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.exe
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.xml
+C:\Users\Misha\Documents\Visual Studio 2017\Projects\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.pdb
+C:\Users\Владимир\Dropbox\Общая папка\07 Задачи на апрель\AdminPanelToManageNotifications\AdminPanelToManageNotifications\bin\Debug\AdminPanelToManageNotifications.exe.config
+C:\Users\Владимир\Dropbox\Общая папка\07 Задачи на апрель\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.exe
+C:\Users\Владимир\Dropbox\Общая папка\07 Задачи на апрель\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.xml
+C:\Users\Владимир\Dropbox\Общая папка\07 Задачи на апрель\AdminPanelToManageNotifications\AdminPanelToManageNotifications\obj\Debug\AdminPanelToManageNotifications.pdb

@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.AdminPanelToManageNotifications.Form1
+            Me.MainForm = Global.AdminPanelToManageNotifications.Customizer
         End Sub
     End Class
 End Namespace
